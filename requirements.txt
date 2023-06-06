@@ -1,0 +1,14 @@
+appdirs==1.4.4
+argcomplete==3.0.8
+asgiref==3.7.2
+Django==4.2.2
+Pillow==9.5.0
+pypng==0.20220715.0
+pyserial==3.5
+python-escpos==2.2.0
+pyusb==1.2.1
+PyYAML==6.0
+qrcode==7.4.2
+six==1.16.0
+sqlparse==0.4.4
+typing_extensions==4.6.3
